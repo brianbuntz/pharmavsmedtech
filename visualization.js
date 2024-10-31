@@ -334,5 +334,5 @@ const RDIntensityOverview = () => {
   );
 };
 
-// Render the component
-ReactDOM.render(<RDIntensityOverview />, document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<RDIntensityOverview />);
