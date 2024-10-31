@@ -267,7 +267,7 @@ const RDIntensityOverview = () => {
             <p>Key observations:</p>
             <ul className="list-disc pl-5">
               <li>Pharma sector showed significant R&D intensity increase from 2022 (16.94%) to 2023 (29.84%)</li>
-              <li>Merck & Co. and Moderna led with exceptional R&D intensity in 2023 (50.79% and 70.75% respectively)</li>
+              <li>Merck & Co. and Moderna led with R&D intensity in 2023 (50.79% and 70.75% respectively) yet Merck counted its $10.2 billion acquisition of Prometheus Biosciences as an R&D expense.</li>
               <li>Medtech sector remained stable around 9-10% R&D intensity</li>
               <li>Notable increases in BioNTech (46.69%) and Pfizer (22.05%) for 2023</li>
             </ul>
